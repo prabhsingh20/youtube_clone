@@ -1,0 +1,1 @@
+I've whipped up a YouTube clone using React.js and styled it with Tailwind CSS. It's not the real deal, but it's a great way to practice your coding chops and get familiar with these awesome technologies. So, dive in, explore, and maybe learn a thing or two along the way. Happy coding!
